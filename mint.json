@@ -8,11 +8,11 @@
   "favicon": "https://orango.ai/logo.svg",
   "colors": {
     "primary": "#F59E0C",
-    "light": "#fbbf24",
-    "dark": "#fbbf24",
+    "light": "#F59E0C",
+    "dark": "#F59E0C",
     "anchors": {
-      "from": "#fbbf24",
-      "to": "#fbbf24"
+      "from": "#F59E0C",
+      "to": "#F59E0C"
     }
   },
   "topbarLinks": [
