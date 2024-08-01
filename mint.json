@@ -8,22 +8,22 @@
   "favicon": "https://orango.ai/logo.svg",
   "colors": {
     "primary": "#F59E0C",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "light": "#fbbf24",
+    "dark": "#fbbf24",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#fbbf24",
+      "to": "#fbbf24"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:hello@orango.ai"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://orango.ai/dashboard"
   },
   "tabs": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.orango.ai"
     },
     {
       "name": "Community",
@@ -53,8 +53,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     },
     {
@@ -84,8 +83,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "x": "https://x.com/Orango_AI",
+    "github": "https://github.com/Orango-AI",
+    "linkedin": "https://www.linkedin.com/company/orango-ai"
   }
 }
