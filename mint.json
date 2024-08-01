@@ -2,12 +2,12 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://orango.ai/logo.svg",
+    "light": "https://orango.ai/logo.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://orango.ai/logo.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#F59E0C",
     "light": "#07C983",
     "dark": "#0D9373",
     "anchors": {
